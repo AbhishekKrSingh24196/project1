@@ -30,7 +30,7 @@ jobs:
         with: 
           name: dist-file   
           path: |
-            dist
+            public
             package.json
             path/output/bin/
 
