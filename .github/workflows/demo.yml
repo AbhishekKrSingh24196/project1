@@ -30,7 +30,8 @@ jobs:
         with: 
           name: dist-file   
           path: |
-            test
+            dist
+            package.json
             path/output/bin/
 
   deploy:
